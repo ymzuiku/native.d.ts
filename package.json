@@ -1,0 +1,20 @@
+{
+  "name": "native.d.ts",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymzuiku/native.d.ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymzuiku/native.d.ts/issues"
+  },
+  "homepage": "https://github.com/ymzuiku/native.d.ts#readme"
+}
